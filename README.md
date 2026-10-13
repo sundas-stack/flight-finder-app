@@ -1,22 +1,31 @@
 # ✈️ Flight Finder
 
-A React Native mobile app that lets users search for flights by travel dates and requirements and view real-time flight results from integrated APIs.
+A React Native mobile app that lets users search for flights by travel dates and requirements, choose their departing and return flights, and review a trip summary, with real-time flight results from integrated APIs.
 
 > **Note:** This app was built for Sky Premia LLC, so the source code is private. This page shows the app's features, tech stack and screenshots.
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/home.png" width="250">
-  <img src="screenshots/search.png" width="250">
-  <img src="screenshots/results.png" width="250">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="screenshots/01-home-search.png" width="220"><br><sub>Home</sub></td>
+    <td align="center"><img src="screenshots/02-search-form.png" width="220"><br><sub>Search form</sub></td>
+    <td align="center"><img src="screenshots/03-searching-flights.png" width="220"><br><sub>Searching flights</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/04-departing-flights.png" width="220"><br><sub>Departing flights</sub></td>
+    <td align="center"><img src="screenshots/05-choose-return-flight.png" width="220"><br><sub>Choose return flight</sub></td>
+    <td align="center"><img src="screenshots/06-trip-summary.png" width="220"><br><sub>Trip summary</sub></td>
+  </tr>
+</table>
 
 ## Features
 
 - Search flights by travel dates and requirements
 - Real-time flight information retrieved through API integration
-- Clean, mobile-friendly interface to browse and compare results
+- Browse departing flights and choose a return flight
+- Trip summary screen to review the selected flights
+- Clean, mobile-friendly interface
 
 ## Tech Stack
 
@@ -28,11 +37,8 @@ A React Native mobile app that lets users search for flights by travel dates and
 
 Mobile App / Front-End Developer. I built the app's front end and integrated APIs to power the dynamic flight search results.
 
-## Download
 
-APK download link will be added here.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/sundas-maria-hayat-1851a131a) · sundasmaria09@gmail.com# flight-finder-app
-React Native mobile app for real-time flight search
+[LinkedIn](https://www.linkedin.com/in/sundas-maria-hayat-1851a131a) · sundasmaria09@gmail.com
